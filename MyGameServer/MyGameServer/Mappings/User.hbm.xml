@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="MyGameServer"
+                   namespace="MyGameServer.Model"
+                   default-lazy="false">
+
+  <class name="User" table ="users">
+    <id name="Id" column ="id" type ="Int32">
+      <generator class="native" />
+    </id>
+    <property name="Username" column ="username" type="String" length="32" not-null="false" />
+    <property name="Password" column ="password" type="String" length="32" not-null="false"/>
+    <property name="Registerdata" column ="registerdata" type="Date" not-null="false"/>
+  </class>
+
+</hibernate-mapping>

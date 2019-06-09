@@ -1,0 +1,12 @@
+D:\UntiyProject\MyGameServer\MyGameServer\bin\Debug\netstandard2.0\MyGameServer.deps.json
+D:\UntiyProject\MyGameServer\MyGameServer\bin\Debug\netstandard2.0\MyGameServer.dll
+D:\UntiyProject\MyGameServer\MyGameServer\bin\Debug\netstandard2.0\MyGameServer.pdb
+D:\UntiyProject\MyGameServer\MyGameServer\obj\Debug\netstandard2.0\MyGameServer.csprojAssemblyReference.cache
+D:\UntiyProject\MyGameServer\MyGameServer\obj\Debug\netstandard2.0\MyGameServer.csproj.CoreCompileInputs.cache
+D:\UntiyProject\MyGameServer\MyGameServer\obj\Debug\netstandard2.0\MyGameServer.AssemblyInfoInputs.cache
+D:\UntiyProject\MyGameServer\MyGameServer\obj\Debug\netstandard2.0\MyGameServer.AssemblyInfo.cs
+D:\UntiyProject\MyGameServer\MyGameServer\obj\Debug\netstandard2.0\MyGameServer.dll
+D:\UntiyProject\MyGameServer\MyGameServer\obj\Debug\netstandard2.0\MyGameServer.pdb
+D:\Photon Server\deploy\MyGameServer\bin\netstandard2.0\MyGameServer.deps.json
+D:\Photon Server\deploy\MyGameServer\bin\netstandard2.0\MyGameServer.dll
+D:\Photon Server\deploy\MyGameServer\bin\netstandard2.0\MyGameServer.pdb
