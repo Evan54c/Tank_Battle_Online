@@ -1,2 +1,6 @@
 # Tank_Battle_Online
 在Unity平台上用C#完成的联机版坦克大战的网络通信部分以及基于PhontonServer的服务器部分
+其中Client为客户端通信部分
+MyGameServer为服务器端通信部分
+Common为客户端和服务器端传递信息所用到的类
+NHibernate为服务器端与数据库交互部分
