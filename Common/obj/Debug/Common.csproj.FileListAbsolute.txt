@@ -1,0 +1,6 @@
+D:\UntiyProject\MyGameServer\Common\bin\Debug\Common.dll
+D:\UntiyProject\MyGameServer\Common\bin\Debug\Common.pdb
+D:\UntiyProject\MyGameServer\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\UntiyProject\MyGameServer\Common\obj\Debug\Common.dll
+D:\UntiyProject\MyGameServer\Common\obj\Debug\Common.pdb
+D:\UntiyProject\MyGameServer\Common\obj\Debug\Common.csprojAssemblyReference.cache
